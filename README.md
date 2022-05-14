@@ -33,13 +33,13 @@
 ### :man_technologist: About Me :
 I am an undergraduate in Zhejiang University, like coding.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m working on computer vision research.
+- :telescope: I’m working on computer vision research. 🖥️
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical Content Writing. ✍️
 
 - :zap: In my free time, I watch movies of Marvel Studio. 🎥
 
-- :mailbox:How to reach me: zjajzcx3566@gmail.com 📧
+- :mailbox: How to reach me: zjajzcx3566@gmail.com 📧
 
 ---
 
