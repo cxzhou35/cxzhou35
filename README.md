@@ -17,7 +17,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Xuer04)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zjajzcx3566@gmail.com)
-![Twitter](https://img.shields.io/twitter/url?style=social&url=http%3A%2F%2Fs%2F%2Ftwitter.com%2FVercent5)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=http%3A%2F%2Fs%2F%2Ftwitter.com%2FVercent5)](https://twitter.com/Vercent5)
 
 <!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
