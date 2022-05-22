@@ -20,7 +20,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am an undergraduate in Zhejiang University, like coding.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am an undergraduate in [Zhejiang University](https://www.zju.edu.cn/english/), like coding.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: I’m working on computer vision research. 🖥️
 
