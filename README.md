@@ -46,6 +46,9 @@ I am an undergraduate in [Zhejiang University](https://www.zju.edu.cn/english/),
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vim.svg"></code>
+  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@5.24.0/icons/alacritty.svg"></code>
+  
 </div>
 
 ---
