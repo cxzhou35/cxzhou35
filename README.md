@@ -54,9 +54,17 @@ I am an undergraduate in [Zhejiang University](https://www.zju.edu.cn/english/),
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Xuer04&theme=nord)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Xuer04&theme=nord)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xuer04&show_icons=true&theme=nord)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xuer04&show_icons=true&theme=nord) -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xuer04&show_icons=true&theme=nord" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Xuer04&theme=nord&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=200" />
+</a>
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xuer04&theme=nord)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xuer04&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
