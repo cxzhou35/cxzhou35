@@ -62,7 +62,7 @@ I am an undergraduate in [Zhejiang University](https://www.zju.edu.cn/english/),
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xuer04&show_icons=true&theme=nord" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Xuer04&theme=nord&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=200" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Xuer04&theme=nord&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=150" />
 </a>
 
 
