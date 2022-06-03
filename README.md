@@ -6,10 +6,6 @@
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=http%3A%2F%2Fs%2F%2Ftwitter.com%2FVercent5)](https://twitter.com/Vercent5)
 [![Telegram](https://img.shields.io/badge/-Telegram-022?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/Xuer04)
 
-<!-- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div> -->
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
