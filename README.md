@@ -18,7 +18,7 @@ I am an undergraduate in [Zhejiang University](https://www.zju.edu.cn/english/).
 
 - :zap: Watching movies of Marvel Studio. 🎥
 
-- :mailbox: How to reach me: zjajzcx3566@gmail.com 📧
+- :mailbox: How to reach me: [Email](zjajzcx3566@gmail.com) 📧
 
 ---
 
