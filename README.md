@@ -20,6 +20,8 @@ I am an undergraduate in [Zhejiang University](https://www.zju.edu.cn/english/).
 
 - :mailbox: How to reach me: [Email](zjajzcx3566@gmail.com) 📧
 
+- :home: My homepage: [https://zicx.top/home/](https://zicx.top/home/)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
