@@ -12,7 +12,7 @@
 ### :man_technologist: About Me :
 I am an undergraduate in [Zhejiang University](https://www.zju.edu.cn/english/).<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: Working on computer vision research. 🖥️
+- :telescope: Working on Computer Vision research. 🖥️
 
 - :seedling: Exploring Technical Content Writing. ✍️
 
@@ -20,7 +20,7 @@ I am an undergraduate in [Zhejiang University](https://www.zju.edu.cn/english/).
 
 - :mailbox: How to reach me: [Email](zjajzcx3566@gmail.com) 📧
 
-- :house_with_garden: My homepage [link](https://zicx.top/home/) 📎
+- :house_with_garden: My homepage [Link](https://zicx.top/home/) 📎
 
 ---
 
