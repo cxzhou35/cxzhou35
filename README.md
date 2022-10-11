@@ -20,7 +20,7 @@ I am an undergraduate in [Zhejiang University](https://www.zju.edu.cn/english/).
 
 - :mailbox: How to reach me: [Email](zjajzcx3566@gmail.com) 📧
 
-- :house_with_garden: My homepage ➡️ [link](https://zicx.top/home/)
+- :house_with_garden: My homepage [link](https://zicx.top/home/) 📎
 
 ---
 
