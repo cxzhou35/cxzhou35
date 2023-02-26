@@ -13,7 +13,6 @@
 I am an undergraduate in [Zhejiang University](https://www.zju.edu.cn/english/).<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - Research: 3D Computer Vision
-- Email: zjajzcx3566@gmail.com
 - Home Page: https://zicx.top/home
 - Notebook: https://zicx.top/notebook
 
@@ -41,6 +40,5 @@ I am an undergraduate in [Zhejiang University](https://www.zju.edu.cn/english/).
 
 ### :fire: My Stats :
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Xuer04&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xuer04&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Xuer04&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
 
