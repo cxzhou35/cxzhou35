@@ -13,7 +13,7 @@
 I am an undergraduate in [Zhejiang University](https://www.zju.edu.cn/english/).
 
 - Research: 3D Computer Vision
-- Home Page: https://zicx.top/home
+- Homepage: https://zicx.top/home
 - Notebook: https://zicx.top/notebook
 
 ---
@@ -23,10 +23,15 @@ I am an undergraduate in [Zhejiang University](https://www.zju.edu.cn/english/).
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original-wordmark.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="Opencv" alt="Opencv" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="cmake" alt="cmake" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" alt="matlab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
