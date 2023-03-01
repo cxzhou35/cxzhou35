@@ -12,7 +12,6 @@
 ### :man_technologist: About Me :
 I am an undergraduate in [Zhejiang University](https://www.zju.edu.cn/english/).
 
-- Research: 3D Computer Vision
 - Homepage: https://zicx.top/home
 - Notebook: https://zicx.top/notebook
 
