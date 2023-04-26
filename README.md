@@ -10,7 +10,10 @@
 ---
 
 ### :man_technologist: About Me :
-I am an undergraduate in [Zhejiang University](https://www.zju.edu.cn/english/).
+I am currently a research intern at [ZJU3DV Lab](https://github.com/zju3dv), my research interest lies in the field of 3D Computer Vision.
+
+If you are interested in my work, feel free to contact me. :)
+
 
 - Homepage: https://zicx.top/home
 - Notebook: https://zicx.top/notebook
