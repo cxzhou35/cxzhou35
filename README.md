@@ -17,6 +17,7 @@ If you are interested in my work, feel free to contact me. :)
 
 - Homepage: https://zicx.top/home
 - Notebook: https://zicx.top/notebook
+- Startpage: https://zicx.top/startpage
 
 ---
 
