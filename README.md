@@ -31,6 +31,7 @@ If you are interested in my work, feel free to contact me. :)
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="Opencv" alt="Opencv" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="cmake" alt="cmake" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" alt="matlab" width="40" height="40"/>&nbsp;
@@ -42,6 +43,7 @@ If you are interested in my work, feel free to contact me. :)
 ---
 
 ### :fire: My Stats :
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cxzhou35&show_icons=true&include_all_commits=true&hide_border=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="Anurag's github stats" /></a>
+<!-- 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cxzhou35&show_icons=true&include_all_commits=true&hide_border=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="Anurag's github stats" /></a> -->
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cxzhou35&show_icons=true&include_all_commits=true&hide_border=true&theme=nord" alt="Anurag's github stats" /></a>
 
