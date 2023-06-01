@@ -19,7 +19,7 @@ Misc:
 - Notebook: https://zicx.top/notebook
 - Startpage: https://zicx.top/startpage
 
----
+<!-- ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -38,7 +38,7 @@ Misc:
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</div>
+</div> -->
 
 ---
 
