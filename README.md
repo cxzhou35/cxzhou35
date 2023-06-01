@@ -14,7 +14,7 @@ I am currently a research intern at [ZJU3DV Lab](https://github.com/zju3dv), my 
 
 If you are interested in my work, feel free to contact me. :)
 
-
+Misc:
 - Homepage: https://zicx.top/home
 - Notebook: https://zicx.top/notebook
 - Startpage: https://zicx.top/startpage
