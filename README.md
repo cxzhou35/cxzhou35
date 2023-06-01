@@ -1,11 +1,10 @@
 <h2> Hi 👋, I'm Zicx! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/cxzhou35)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zjajzcx3566@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-022?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/cxzhou35)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=http%3A%2F%2Fs%2F%2Ftwitter.com%2FVercent5)](https://twitter.com/cxzhou35)
-
+[![Github](https://img.shields.io/badge/-Github-136?style=flat&logo=Github&logoColor=white)](https://github.com/cxzhou35)
+[![Gmail](https://img.shields.io/badge/-Gmail-136?style=flat&logo=Gmail&logoColor=white)](mailto:zjajzcx3566@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-136?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/cxzhou35)
+[![Twitter](https://img.shields.io/badge/-Twitter-136?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/cxzhou35)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-136?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cxzhou35/)
 
 ---
 
