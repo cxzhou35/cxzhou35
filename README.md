@@ -46,3 +46,8 @@ Misc:
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cxzhou35&show_icons=true&include_all_commits=true&hide_border=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="Anurag's github stats" /></a> -->
 <a href="https://github-readme-stats-cxzhou35.vercel.app"><img align="center" src="https://github-readme-stats-cxzhou35.vercel.app/api?username=cxzhou35&show_icons=true&include_all_commits=true&hide_border=true&theme=rose_pine" alt="Anurag's github stats" /></a>
 
+### My Github Contributions :
+
+![](https://raw.githubusercontent.com/cxzhou35/cxzhou35/main/assets/github-contribution-grid-snake.svg)     
+
+
