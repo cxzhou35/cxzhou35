@@ -17,3 +17,5 @@ Misc:
 - Homepage: https://zicx.top/home
 - Notebook: https://zicx.top/notebook
 - Startpage: https://zicx.top/startpage
+
+<a href="https://github-readme-stats-cxzhou35.vercel.app"><img align="center" src="https://github-readme-stats-cxzhou35.vercel.app/api?username=cxzhou35&show_icons=true&include_all_commits=true&hide_border=true&theme=rose_pine" alt="Anurag's github stats" /></a>
