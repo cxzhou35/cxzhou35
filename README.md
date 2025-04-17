@@ -9,7 +9,7 @@
 ---
 
 ### :man_technologist: About Me:
-PhD student at [ZJU3DV Lab](https://github.com/zju3dv), my research interest lies in the field of 3D Computer Vision.
+I am a PhD student at [ZJU3DV Lab](https://github.com/zju3dv), my research interest lies in 3D/4D reconstruction and generative model.
 
 If you are interested in my work, feel free to contact me. :)
 
