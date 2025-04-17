@@ -8,14 +8,14 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: About Me:
 PhD student at [ZJU3DV Lab](https://github.com/zju3dv), my research interest lies in the field of 3D Computer Vision.
 
 If you are interested in my work, feel free to contact me. :)
 
 Misc:
-- Homepage: https://zicx.top
-- Notebook: https://note.zicx.top
-- Startpage: https://zicx.top/startpage
+- Homepage: zicx.top
+- Notebook: note.zicx.top
+- Startpage: zicx.top/startpage
 
 <a href="https://github-readme-stats-cxzhou35.vercel.app"><img align="center" src="https://github-readme-stats-cxzhou35.vercel.app/api?username=cxzhou35&show_icons=true&include_all_commits=true&hide_border=true&theme=rose_pine" alt="Anurag's github stats" /></a>
