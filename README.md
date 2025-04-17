@@ -14,8 +14,8 @@ PhD student at [ZJU3DV Lab](https://github.com/zju3dv), my research interest lie
 If you are interested in my work, feel free to contact me. :)
 
 Misc:
-- Homepage: https://zicx.top/home
-- Notebook: https://zicx.top/notebook
+- Homepage: https://zicx.top
+- Notebook: https://note.zicx.top
 - Startpage: https://zicx.top/startpage
 
 <a href="https://github-readme-stats-cxzhou35.vercel.app"><img align="center" src="https://github-readme-stats-cxzhou35.vercel.app/api?username=cxzhou35&show_icons=true&include_all_commits=true&hide_border=true&theme=rose_pine" alt="Anurag's github stats" /></a>
