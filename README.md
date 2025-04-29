@@ -1,10 +1,11 @@
 <h2> Hi 👋, I'm Zicx! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-[![Github](https://img.shields.io/badge/-Github-136?style=flat&logo=Github&logoColor=white)](https://github.com/cxzhou35)
 [![Gmail](https://img.shields.io/badge/-Gmail-136?style=flat&logo=Gmail&logoColor=white)](mailto:zjajzcx3566@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-136?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/cxzhou35)
 [![Twitter](https://img.shields.io/badge/-Twitter-136?style=flat&logo=x&logoColor=white)](https://twitter.com/cxzhou35)
 [![Bluesky](https://img.shields.io/badge/-Bluesky-136?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/cxzhou35.bsky.social)
+[![Github](https://img.shields.io/github/followers/cxzhou35?style=flat&logo=Github&label=Followers&labelColor=%2311305D&color=%2311305D
+)](https://github.com/cxzhou35)
 
 ---
 
