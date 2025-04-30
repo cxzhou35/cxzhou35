@@ -17,6 +17,6 @@ If you are interested in my work, feel free to contact me. :)
 Misc:
 - Homepage: [zicx.top](https://zicx.top)
 - Notebook (Mainly in Chinese): [note.zicx.top](https://note.zicx.top)
-- Startpage: [zicx.top/startpage](https://zicx.top/startpage)
+- Startpage: [start.zicx.top](https://start.zicx.top)
 
 <a href="https://github-readme-stats-cxzhou35.vercel.app"><img align="center" src="https://github-readme-stats-cxzhou35.vercel.app/api?username=cxzhou35&show_icons=true&include_all_commits=true&hide_border=true&theme=rose_pine" alt="Anurag's github stats" /></a>
